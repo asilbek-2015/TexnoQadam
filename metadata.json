@@ -1,0 +1,6 @@
+{
+  "name": "TexnoQadam — Kurs Bor",
+  "description": "TexnoQadam (Kurs Bor) zamonaviy interaktiv ta'lim platformasi: dasturlash, chet tillari, aniq fanlar, sun'iy intellekt, Coin, Point, Strike va alohida Admin CRM tizimi.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
